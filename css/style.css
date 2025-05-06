@@ -2,8 +2,8 @@
     --primaryText: #fff;
     --secondaryText: rgba(251, 95, 176, 0.8);
     --primary: rgba(251, 95, 176, 0.8);
-    --secondary: rgba(247, 187, 218, 0.8); 
-    --buttonHover: rgba(247, 187, 218, 0.8);
+    --secondary: rgba(192, 14, 106, 0.8); 
+    --buttonHover: rgba(192, 14, 106, 0.8);
     --smallButtonHover: rgba(0, 0, 0, .25);
 }
 
@@ -26,7 +26,7 @@ body {
     min-height: 100%;
     /* The image used for the site background. Try changing background_pink.jpg to stars.jpg. Put a replacement photo in the images folder and, in line 21 below, replace background_pink.jpg with yourbackgroundfilename.jpg */
     /* The linear gradient darkens the image, like putting a sunglasses lens on top of it. If you want to darken the image even more, change 0.1 (both times) to 0.3 or higher */
-    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(../images/background_pink.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../images/background_pink.jpg);
     /* Prevents the browser from repeating or "tiling" the background image */
     background-repeat: no-repeat;
     background-position: center;
